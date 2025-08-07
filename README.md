@@ -1,6 +1,8 @@
 # Student Management System
 Student Management System made with MERN Stack. A Project for the beginners.
 ## TechStack and Designs
+- HTML
+- CSS
 - Node
 - Express
 - React
